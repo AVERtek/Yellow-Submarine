@@ -37,7 +37,7 @@
 
 ---
 
-### Swiss Knife Demo
+### Swiss Knife
 
 ---
 
@@ -60,6 +60,17 @@
   </script>
 <script nomodule="" src="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js"></script>
 
+
+## AR DEMOS 
+
+---
+
+### Apartment
+
+---
+
+<model-viewer id="reveal" loading="eager" src="Models/Apartment/scene.gltf" ar="" ar-modes="scene-viewer webxr quick-look" ios-src="Don_Felipe_Humanizada_3D.usdz" alt="AR Apartment Walk Through" auto-rotate="" auto-rotate-delay="0" ar-scale="auto" camera-controls="" style="width: 95%; height: 500px" exposure="0.5"> 
+</model-viewer>
 
 
 ---
