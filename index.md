@@ -1,4 +1,4 @@
-## AVERtek 
+## AR DEMOS
 
 ---
 
@@ -30,29 +30,29 @@
   <!-- OPTIONAL: Include prismatic.js for Magic Leap support -->
   <!--<script src="https://unpkg.com/@magicleap/prismatic/prismatic.min.js"></script>-->
 
-<model-viewer id="reveal" loading="eager" src="Models/scene.gltf" ar="" ar-modes="scene-viewer webxr quick-look" ios-src="Yellow_submarine_-_Beatles.usdz" alt="Yellow-Submarine" auto-rotate="" auto-rotate-delay="0" ar-scale="auto" camera-controls=""  style="width: 95%; height: 500px" exposure="0.5"> 
+<model-viewer id="reveal" loading="eager" src="Models/YellowSubmarine/scene.gltf" ar="" ar-modes="scene-viewer webxr quick-look" ios-src="Yellow_submarine_-_Beatles.usdz" alt="Yellow-Submarine" auto-rotate="" auto-rotate-delay="0" ar-scale="auto" camera-controls=""  style="width: 95%; height: 500px" exposure="0.5"> 
 </model-viewer>
 
-## AVERtek 
+## AR DEMOS 
 
 ---
 
-### Yellow Submarine
+### Swiss Knife Demo
 
 ---
 
-<model-viewer id="reveal" loading="eager" src="Models/scene.gltf" ar="" ar-modes="scene-viewer webxr quick-look" ios-src="Yellow_submarine_-_Beatles.usdz" alt="Yellow-Submarine" auto-rotate="" auto-rotate-delay="0" ar-scale="auto" camera-controls=""  style="width: 95%; height: 500px" exposure="0.5"> 
+<model-viewer id="reveal" loading="eager" src="Models/SwissKnife/scene.gltf" ar="" ar-modes="scene-viewer webxr quick-look" ios-src="Victorinox_multitool_knife.usdz" alt="A 3D model of Swiss Army Knife" auto-rotate="" auto-rotate-delay="0" ar-scale="auto" camera-controls=""  style="width: 95%; height: 500px" exposure="0.5"> 
 </model-viewer>
 
-## AVERtek 
+## AR DEMOS
 
 ---
 
-### Yellow Submarine
+### Lamborghini
 
 ---
 
-<model-viewer id="reveal" loading="eager" src="Models/scene.gltf" ar="" ar-modes="scene-viewer webxr quick-look" ios-src="Yellow_submarine_-_Beatles.usdz" alt="Yellow-Submarine" ar-scale="auto" camera-controls=""  style="width: 95%; height: 500px" exposure="0.5"> 
+<model-viewer id="reveal" loading="eager" src="Models/Lamborghini/scene.gltf" ar="" ar-modes="scene-viewer webxr quick-look" ios-src="Yellow_submarine_-_Beatles.usdz" alt="Yellow-Submarine" ar-scale="auto" camera-controls=""  style="width: 95%; height: 500px" exposure="0.5"> 
 </model-viewer>
 
 <!-- Loads <model-viewer> for modern browsers: -->
