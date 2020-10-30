@@ -30,7 +30,7 @@
   <!-- OPTIONAL: Include prismatic.js for Magic Leap support -->
   <!--<script src="https://unpkg.com/@magicleap/prismatic/prismatic.min.js"></script>-->
 
-<model-viewer id="reveal" loading="eager" src="Models/YellowSubmarine/scene.gltf" ar="" ar-modes="scene-viewer webxr quick-look" ios-src="Yellow_submarine_-_Beatles.usdz" alt="Yellow-Submarine" auto-rotate="" auto-rotate-delay="0" ar-scale="auto" camera-controls=""  style="width: 95%; height: 500px" exposure="0.5"> 
+<model-viewer id="reveal" loading="eager" camera-controls autoplay animation-name="Take 01" src="Models/YellowSubmarine/scene.gltf" ar="" ar-modes="scene-viewer webxr quick-look" ios-src="Yellow_submarine_-_Beatles.usdz" alt="Yellow-Submarine" auto-rotate="" auto-rotate-delay="0" ar-scale="auto" camera-controls=""  style="width: 95%; height: 500px" exposure="0.5"> 
 </model-viewer>
 
 ## AR DEMOS 
